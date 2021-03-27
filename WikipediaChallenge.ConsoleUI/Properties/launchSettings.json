@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WikipediaChallenge.ConsoleUI": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.Domain\bin\Release\net5.0\WikipediaChallenge.Domain.deps.json
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.Domain\bin\Release\net5.0\WikipediaChallenge.Domain.dll
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.Domain\bin\Release\net5.0\ref\WikipediaChallenge.Domain.dll
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.Domain\bin\Release\net5.0\WikipediaChallenge.Domain.pdb
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.Domain\obj\Release\net5.0\WikipediaChallenge.Domain.csprojAssemblyReference.cache
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.Domain\obj\Release\net5.0\WikipediaChallenge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.Domain\obj\Release\net5.0\WikipediaChallenge.Domain.AssemblyInfoInputs.cache
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.Domain\obj\Release\net5.0\WikipediaChallenge.Domain.AssemblyInfo.cs
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.Domain\obj\Release\net5.0\WikipediaChallenge.Domain.csproj.CoreCompileInputs.cache
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.Domain\obj\Release\net5.0\WikipediaChallenge.Domain.dll
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.Domain\obj\Release\net5.0\ref\WikipediaChallenge.Domain.dll
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.Domain\obj\Release\net5.0\WikipediaChallenge.Domain.pdb

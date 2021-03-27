@@ -1,0 +1,12 @@
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\bin\Release\netcoreapp3.1\WikipediaChallenge.ApplicationCore.deps.json
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\bin\Release\netcoreapp3.1\WikipediaChallenge.ApplicationCore.dll
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\bin\Release\netcoreapp3.1\WikipediaChallenge.ApplicationCore.pdb
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\bin\Release\netcoreapp3.1\WikipediaChallenge.Domain.dll
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\bin\Release\netcoreapp3.1\WikipediaChallenge.Domain.pdb
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\obj\Release\netcoreapp3.1\WikipediaChallenge.ApplicationCore.csprojAssemblyReference.cache
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\obj\Release\netcoreapp3.1\WikipediaChallenge.ApplicationCore.AssemblyInfoInputs.cache
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\obj\Release\netcoreapp3.1\WikipediaChallenge.ApplicationCore.AssemblyInfo.cs
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\obj\Release\netcoreapp3.1\WikipediaChallenge.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\obj\Release\netcoreapp3.1\WikipediaChallenge.ApplicationCore.csproj.CopyComplete
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\obj\Release\netcoreapp3.1\WikipediaChallenge.ApplicationCore.dll
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\obj\Release\netcoreapp3.1\WikipediaChallenge.ApplicationCore.pdb

@@ -1,0 +1,15 @@
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\bin\Release\net5.0\WikipediaChallenge.ApplicationCore.deps.json
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\bin\Release\net5.0\WikipediaChallenge.ApplicationCore.dll
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\bin\Release\net5.0\ref\WikipediaChallenge.ApplicationCore.dll
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\bin\Release\net5.0\WikipediaChallenge.ApplicationCore.pdb
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\bin\Release\net5.0\WikipediaChallenge.Domain.dll
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\bin\Release\net5.0\WikipediaChallenge.Domain.pdb
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\obj\Release\net5.0\WikipediaChallenge.ApplicationCore.csprojAssemblyReference.cache
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\obj\Release\net5.0\WikipediaChallenge.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\obj\Release\net5.0\WikipediaChallenge.ApplicationCore.AssemblyInfoInputs.cache
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\obj\Release\net5.0\WikipediaChallenge.ApplicationCore.AssemblyInfo.cs
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\obj\Release\net5.0\WikipediaChallenge.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\obj\Release\net5.0\WikipediaChallenge.ApplicationCore.csproj.CopyComplete
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\obj\Release\net5.0\WikipediaChallenge.ApplicationCore.dll
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\obj\Release\net5.0\ref\WikipediaChallenge.ApplicationCore.dll
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\obj\Release\net5.0\WikipediaChallenge.ApplicationCore.pdb
