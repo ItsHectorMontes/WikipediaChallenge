@@ -836,19 +836,10 @@
       },
       "WikipediaChallenge.ApplicationCore/1.0.0": {
         "dependencies": {
-          "System.Configuration.ConfigurationManager": "5.0.0",
-          "WikipediaChallenge.Domain": "1.0.0"
-        },
-        "runtime": {
-          "WikipediaChallenge.ApplicationCore.dll": {}
-        }
-      },
-      "WikipediaChallenge.Domain/1.0.0": {
-        "dependencies": {
           "System.Configuration.ConfigurationManager": "5.0.0"
         },
         "runtime": {
-          "WikipediaChallenge.Domain.dll": {}
+          "WikipediaChallenge.ApplicationCore.dll": {}
         }
       }
     }
@@ -1266,11 +1257,6 @@
       "hashPath": "xunit.runner.visualstudio.2.4.0.nupkg.sha512"
     },
     "WikipediaChallenge.ApplicationCore/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "WikipediaChallenge.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

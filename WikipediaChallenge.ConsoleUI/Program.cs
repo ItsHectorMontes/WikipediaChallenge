@@ -1,5 +1,5 @@
 ﻿using System;
-using WikipediaChallenge.Infrastructure.Data;
+using WikipediaChallenge.Infrastructure.Repository;
 
 namespace WikipediaChallenge.ConsoleUI
 {
@@ -12,7 +12,7 @@ namespace WikipediaChallenge.ConsoleUI
         public static void Main(string[] args)
         {
             DateTime currentPeriod = DateTime.Now.ToUniversalTime();
-            int lastHourNumber = 5;
+            int lastHourNumber = 1;
             DataProcess dataProcessor = new DataProcess(lastHourNumber, currentPeriod);
             dataProcessor.RunMainProcess();
             System.Console.WriteLine("Press enter to quit.");

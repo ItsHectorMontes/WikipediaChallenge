@@ -159,8 +159,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "System.Configuration.ConfigurationManager": "5.0.0",
-          "WikipediaChallenge.Domain": "1.0.0"
+          "System.Configuration.ConfigurationManager": "5.0.0"
         },
         "compile": {
           "bin/placeholder/WikipediaChallenge.ApplicationCore.dll": {}
@@ -169,17 +168,17 @@
           "bin/placeholder/WikipediaChallenge.ApplicationCore.dll": {}
         }
       },
-      "WikipediaChallenge.Domain/1.0.0": {
+      "WikipediaChallenge.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "System.Configuration.ConfigurationManager": "5.0.0"
+          "WikipediaChallenge.ApplicationCore": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/WikipediaChallenge.Domain.dll": {}
+          "bin/placeholder/WikipediaChallenge.Infrastructure.dll": {}
         },
         "runtime": {
-          "bin/placeholder/WikipediaChallenge.Domain.dll": {}
+          "bin/placeholder/WikipediaChallenge.Infrastructure.dll": {}
         }
       }
     }
@@ -583,16 +582,17 @@
       "path": "../WikipediaChallenge.ApplicationCore/WikipediaChallenge.ApplicationCore.csproj",
       "msbuildProject": "../WikipediaChallenge.ApplicationCore/WikipediaChallenge.ApplicationCore.csproj"
     },
-    "WikipediaChallenge.Domain/1.0.0": {
+    "WikipediaChallenge.Infrastructure/1.0.0": {
       "type": "project",
-      "path": "../WikipediaChallenge.Domain/WikipediaChallenge.Domain.csproj",
-      "msbuildProject": "../WikipediaChallenge.Domain/WikipediaChallenge.Domain.csproj"
+      "path": "../WikipediaChallenge.Infrastructure/WikipediaChallenge.Infrastructure.csproj",
+      "msbuildProject": "../WikipediaChallenge.Infrastructure/WikipediaChallenge.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.10.13",
-      "WikipediaChallenge.ApplicationCore >= 1.0.0"
+      "WikipediaChallenge.ApplicationCore >= 1.0.0",
+      "WikipediaChallenge.Infrastructure >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -628,6 +628,9 @@
           "projectReferences": {
             "D:\\Desarrollo\\C#\\WikipediaChallenge\\WikipediaChallenge\\WikipediaChallenge.ApplicationCore\\WikipediaChallenge.ApplicationCore.csproj": {
               "projectPath": "D:\\Desarrollo\\C#\\WikipediaChallenge\\WikipediaChallenge\\WikipediaChallenge.ApplicationCore\\WikipediaChallenge.ApplicationCore.csproj"
+            },
+            "D:\\Desarrollo\\C#\\WikipediaChallenge\\WikipediaChallenge\\WikipediaChallenge.Infrastructure\\WikipediaChallenge.Infrastructure.csproj": {
+              "projectPath": "D:\\Desarrollo\\C#\\WikipediaChallenge\\WikipediaChallenge\\WikipediaChallenge.Infrastructure\\WikipediaChallenge.Infrastructure.csproj"
             }
           }
         }

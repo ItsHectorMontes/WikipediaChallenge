@@ -1,3 +1,7 @@
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallengeTest\obj\Debug\netcoreapp3.1\WikipediaChallengeTest.csprojAssemblyReference.cache
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallengeTest\obj\Debug\netcoreapp3.1\WikipediaChallengeTest.AssemblyInfoInputs.cache
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallengeTest\obj\Debug\netcoreapp3.1\WikipediaChallengeTest.AssemblyInfo.cs
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallengeTest\obj\Debug\netcoreapp3.1\WikipediaChallengeTest.csproj.CoreCompileInputs.cache
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallengeTest\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallengeTest\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallengeTest\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
@@ -103,13 +107,7 @@ D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallengeTest\bi
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallengeTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallengeTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallengeTest\bin\Debug\netcoreapp3.1\WikipediaChallenge.ApplicationCore.dll
-D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallengeTest\bin\Debug\netcoreapp3.1\WikipediaChallenge.Domain.dll
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallengeTest\bin\Debug\netcoreapp3.1\WikipediaChallenge.ApplicationCore.pdb
-D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallengeTest\bin\Debug\netcoreapp3.1\WikipediaChallenge.Domain.pdb
-D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallengeTest\obj\Debug\netcoreapp3.1\WikipediaChallengeTest.csprojAssemblyReference.cache
-D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallengeTest\obj\Debug\netcoreapp3.1\WikipediaChallengeTest.AssemblyInfoInputs.cache
-D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallengeTest\obj\Debug\netcoreapp3.1\WikipediaChallengeTest.AssemblyInfo.cs
-D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallengeTest\obj\Debug\netcoreapp3.1\WikipediaChallengeTest.csproj.CoreCompileInputs.cache
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallengeTest\obj\Debug\netcoreapp3.1\WikipediaChallengeTest.csproj.CopyComplete
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallengeTest\obj\Debug\netcoreapp3.1\WikipediaChallengeTest.dll
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallengeTest\obj\Debug\netcoreapp3.1\WikipediaChallengeTest.pdb

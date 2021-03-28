@@ -1043,27 +1043,13 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "System.Configuration.ConfigurationManager": "5.0.0",
-          "WikipediaChallenge.Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/WikipediaChallenge.ApplicationCore.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/WikipediaChallenge.ApplicationCore.dll": {}
-        }
-      },
-      "WikipediaChallenge.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
           "System.Configuration.ConfigurationManager": "5.0.0"
         },
         "compile": {
-          "bin/placeholder/WikipediaChallenge.Domain.dll": {}
+          "bin/placeholder/WikipediaChallenge.ApplicationCore.dll": {}
         },
         "runtime": {
-          "bin/placeholder/WikipediaChallenge.Domain.dll": {}
+          "bin/placeholder/WikipediaChallenge.ApplicationCore.dll": {}
         }
       }
     }
@@ -3962,11 +3948,6 @@
       "type": "project",
       "path": "../WikipediaChallenge.ApplicationCore/WikipediaChallenge.ApplicationCore.csproj",
       "msbuildProject": "../WikipediaChallenge.ApplicationCore/WikipediaChallenge.ApplicationCore.csproj"
-    },
-    "WikipediaChallenge.Domain/1.0.0": {
-      "type": "project",
-      "path": "../WikipediaChallenge.Domain/WikipediaChallenge.Domain.csproj",
-      "msbuildProject": "../WikipediaChallenge.Domain/WikipediaChallenge.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {

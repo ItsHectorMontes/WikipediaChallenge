@@ -30,11 +30,7 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {
-              "D:\\Desarrollo\\C#\\WikipediaChallenge\\WikipediaChallenge\\WikipediaChallenge.Domain\\WikipediaChallenge.Domain.csproj": {
-                "projectPath": "D:\\Desarrollo\\C#\\WikipediaChallenge\\WikipediaChallenge\\WikipediaChallenge.Domain\\WikipediaChallenge.Domain.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -100,6 +96,9 @@
             "projectReferences": {
               "D:\\Desarrollo\\C#\\WikipediaChallenge\\WikipediaChallenge\\WikipediaChallenge.ApplicationCore\\WikipediaChallenge.ApplicationCore.csproj": {
                 "projectPath": "D:\\Desarrollo\\C#\\WikipediaChallenge\\WikipediaChallenge\\WikipediaChallenge.ApplicationCore\\WikipediaChallenge.ApplicationCore.csproj"
+              },
+              "D:\\Desarrollo\\C#\\WikipediaChallenge\\WikipediaChallenge\\WikipediaChallenge.Infrastructure\\WikipediaChallenge.Infrastructure.csproj": {
+                "projectPath": "D:\\Desarrollo\\C#\\WikipediaChallenge\\WikipediaChallenge\\WikipediaChallenge.Infrastructure\\WikipediaChallenge.Infrastructure.csproj"
               }
             }
           }
@@ -138,14 +137,14 @@
         }
       }
     },
-    "D:\\Desarrollo\\C#\\WikipediaChallenge\\WikipediaChallenge\\WikipediaChallenge.Domain\\WikipediaChallenge.Domain.csproj": {
+    "D:\\Desarrollo\\C#\\WikipediaChallenge\\WikipediaChallenge\\WikipediaChallenge.Infrastructure\\WikipediaChallenge.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desarrollo\\C#\\WikipediaChallenge\\WikipediaChallenge\\WikipediaChallenge.Domain\\WikipediaChallenge.Domain.csproj",
-        "projectName": "WikipediaChallenge.Domain",
-        "projectPath": "D:\\Desarrollo\\C#\\WikipediaChallenge\\WikipediaChallenge\\WikipediaChallenge.Domain\\WikipediaChallenge.Domain.csproj",
+        "projectUniqueName": "D:\\Desarrollo\\C#\\WikipediaChallenge\\WikipediaChallenge\\WikipediaChallenge.Infrastructure\\WikipediaChallenge.Infrastructure.csproj",
+        "projectName": "WikipediaChallenge.Infrastructure",
+        "projectPath": "D:\\Desarrollo\\C#\\WikipediaChallenge\\WikipediaChallenge\\WikipediaChallenge.Infrastructure\\WikipediaChallenge.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Hector Franz\\.nuget\\packages\\",
-        "outputPath": "D:\\Desarrollo\\C#\\WikipediaChallenge\\WikipediaChallenge\\WikipediaChallenge.Domain\\obj\\",
+        "outputPath": "D:\\Desarrollo\\C#\\WikipediaChallenge\\WikipediaChallenge\\WikipediaChallenge.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -164,7 +163,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Desarrollo\\C#\\WikipediaChallenge\\WikipediaChallenge\\WikipediaChallenge.ApplicationCore\\WikipediaChallenge.ApplicationCore.csproj": {
+                "projectPath": "D:\\Desarrollo\\C#\\WikipediaChallenge\\WikipediaChallenge\\WikipediaChallenge.ApplicationCore\\WikipediaChallenge.ApplicationCore.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -176,12 +179,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "System.Configuration.ConfigurationManager": {
-              "target": "Package",
-              "version": "[5.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

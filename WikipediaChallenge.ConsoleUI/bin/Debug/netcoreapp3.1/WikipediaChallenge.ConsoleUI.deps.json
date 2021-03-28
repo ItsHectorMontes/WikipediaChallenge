@@ -9,7 +9,8 @@
       "WikipediaChallenge.ConsoleUI/1.0.0": {
         "dependencies": {
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.10.13",
-          "WikipediaChallenge.ApplicationCore": "1.0.0"
+          "WikipediaChallenge.ApplicationCore": "1.0.0",
+          "WikipediaChallenge.Infrastructure": "1.0.0"
         },
         "runtime": {
           "WikipediaChallenge.ConsoleUI.dll": {}
@@ -164,19 +165,18 @@
       },
       "WikipediaChallenge.ApplicationCore/1.0.0": {
         "dependencies": {
-          "System.Configuration.ConfigurationManager": "5.0.0",
-          "WikipediaChallenge.Domain": "1.0.0"
+          "System.Configuration.ConfigurationManager": "5.0.0"
         },
         "runtime": {
           "WikipediaChallenge.ApplicationCore.dll": {}
         }
       },
-      "WikipediaChallenge.Domain/1.0.0": {
+      "WikipediaChallenge.Infrastructure/1.0.0": {
         "dependencies": {
-          "System.Configuration.ConfigurationManager": "5.0.0"
+          "WikipediaChallenge.ApplicationCore": "1.0.0"
         },
         "runtime": {
-          "WikipediaChallenge.Domain.dll": {}
+          "WikipediaChallenge.Infrastructure.dll": {}
         }
       }
     }
@@ -262,7 +262,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "WikipediaChallenge.Domain/1.0.0": {
+    "WikipediaChallenge.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,4 +1,4 @@
-﻿using WikipediaChallenge.Domain.Models;
+﻿using WikipediaChallenge.ApplicationCore.Models;
 
 namespace WikipediaChallenge.ApplicationCore.Interfaces
 {/// <summary>

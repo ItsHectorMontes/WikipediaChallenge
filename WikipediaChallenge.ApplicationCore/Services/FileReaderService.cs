@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 using WikipediaChallenge.ApplicationCore.Interfaces;
-using WikipediaChallenge.Domain.Models;
+using WikipediaChallenge.ApplicationCore.Models;
 
 namespace WikipediaChallenge.ApplicationCore.Services
 {
