@@ -2,6 +2,8 @@
 using System.ComponentModel;
 using System.IO;
 using System.Net;
+using System.Net.Http;
+using System.Threading.Tasks;
 using WikipediaChallenge.ApplicationCore.Interfaces;
 using WikipediaChallenge.ApplicationCore.Models;
 
@@ -43,8 +45,9 @@ namespace WikipediaChallenge.ApplicationCore.Services
             using WebClient wc = new WebClient();
             wc.DownloadProgressChanged += OnDownloadProgressChanged;
             wc.DownloadFileCompleted += OnDownloadFileCompleted;
-            wc.DownloadFileAsync(new Uri(SourceUrl), TargetFile); //here private 
+            wc.DownloadFileAsync(new Uri(SourceUrl), TargetFile); 
         }
+        
         /// <summary>
         /// Change download progress.
         /// </summary>

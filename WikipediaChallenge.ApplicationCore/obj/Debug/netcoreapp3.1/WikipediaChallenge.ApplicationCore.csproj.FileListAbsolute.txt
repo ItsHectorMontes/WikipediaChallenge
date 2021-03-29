@@ -6,3 +6,4 @@ D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.Applic
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\bin\Debug\netcoreapp3.1\WikipediaChallenge.ApplicationCore.pdb
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\obj\Debug\netcoreapp3.1\WikipediaChallenge.ApplicationCore.dll
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\obj\Debug\netcoreapp3.1\WikipediaChallenge.ApplicationCore.pdb
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ApplicationCore\obj\Debug\netcoreapp3.1\WikipediaChallenge.ApplicationCore.csprojAssemblyReference.cache
