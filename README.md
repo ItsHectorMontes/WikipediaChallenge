@@ -20,6 +20,12 @@ Sample Link: [Wikimedia Dumps 2015](https://dumps.wikimedia.org/other/pageviews/
 ## Architecture
 - Drive Domain Design(DDD)
 
+## Docker
+-Instructions
+```
+docker run -it --device=/dev/ttyUSB0 debian bash
+```
+
 
 
 
