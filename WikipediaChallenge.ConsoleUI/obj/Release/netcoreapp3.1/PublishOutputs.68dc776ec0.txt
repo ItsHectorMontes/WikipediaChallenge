@@ -22,6 +22,6 @@ D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.Consol
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ConsoleUI\bin\Release\netcoreapp3.1\publish\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ConsoleUI\bin\Release\netcoreapp3.1\publish\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ConsoleUI\bin\Release\netcoreapp3.1\publish\WikipediaChallenge.ApplicationCore.dll
-D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ConsoleUI\bin\Release\netcoreapp3.1\publish\WikipediaChallenge.Domain.dll
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ConsoleUI\bin\Release\netcoreapp3.1\publish\WikipediaChallenge.Infrastructure.dll
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ConsoleUI\bin\Release\netcoreapp3.1\publish\WikipediaChallenge.ApplicationCore.pdb
-D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ConsoleUI\bin\Release\netcoreapp3.1\publish\WikipediaChallenge.Domain.pdb
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ConsoleUI\bin\Release\netcoreapp3.1\publish\WikipediaChallenge.Infrastructure.pdb

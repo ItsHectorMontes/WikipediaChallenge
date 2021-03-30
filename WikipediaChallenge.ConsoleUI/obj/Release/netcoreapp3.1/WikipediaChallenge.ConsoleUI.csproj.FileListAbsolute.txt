@@ -22,9 +22,7 @@ D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.Consol
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ConsoleUI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ConsoleUI\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ConsoleUI\bin\Release\netcoreapp3.1\WikipediaChallenge.ApplicationCore.dll
-D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ConsoleUI\bin\Release\netcoreapp3.1\WikipediaChallenge.Domain.dll
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ConsoleUI\bin\Release\netcoreapp3.1\WikipediaChallenge.ApplicationCore.pdb
-D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ConsoleUI\bin\Release\netcoreapp3.1\WikipediaChallenge.Domain.pdb
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ConsoleUI\obj\Release\netcoreapp3.1\WikipediaChallenge.ConsoleUI.csprojAssemblyReference.cache
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ConsoleUI\obj\Release\netcoreapp3.1\WikipediaChallenge.ConsoleUI.AssemblyInfoInputs.cache
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ConsoleUI\obj\Release\netcoreapp3.1\WikipediaChallenge.ConsoleUI.AssemblyInfo.cs
@@ -34,3 +32,5 @@ D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.Consol
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ConsoleUI\obj\Release\netcoreapp3.1\WikipediaChallenge.ConsoleUI.pdb
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ConsoleUI\obj\Release\netcoreapp3.1\WikipediaChallenge.ConsoleUI.genruntimeconfig.cache
 D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ConsoleUI\bin\Release\netcoreapp3.1\App.config
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ConsoleUI\bin\Release\netcoreapp3.1\WikipediaChallenge.Infrastructure.dll
+D:\Desarrollo\C#\WikipediaChallenge\WikipediaChallenge\WikipediaChallenge.ConsoleUI\bin\Release\netcoreapp3.1\WikipediaChallenge.Infrastructure.pdb

@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Threading.Tasks;
 
 namespace WikipediaChallenge.ApplicationCore.Interfaces
 {
@@ -10,7 +10,7 @@ namespace WikipediaChallenge.ApplicationCore.Interfaces
     {
         void VerifyDataTempLocation();
         void SetConfigurationByPeriod(DateTime period, string folderName);
-        void DownloadData();        
+        void DownloadData();
         void DownloadDataAsync();
     }
 }

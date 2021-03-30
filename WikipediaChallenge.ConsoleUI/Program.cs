@@ -12,11 +12,11 @@ namespace WikipediaChallenge.ConsoleUI
         public static void Main(string[] args)
         {
             DateTime currentPeriod = DateTime.Now.ToUniversalTime();
-            int lastHourNumber = 1;
+            int lastHourNumber = 5;
             DataProcess dataProcessor = new DataProcess(lastHourNumber, currentPeriod);
             dataProcessor.RunMainProcess();
-            System.Console.WriteLine("Press enter to quit.");
-            System.Console.ReadLine();
+            Console.WriteLine("Press enter to quit.");
+            Console.ReadLine();
         }
     }
 }

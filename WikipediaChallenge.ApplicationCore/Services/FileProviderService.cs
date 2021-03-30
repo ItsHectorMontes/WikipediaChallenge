@@ -26,7 +26,7 @@ namespace WikipediaChallenge.ApplicationCore.Services
             if (string.IsNullOrEmpty(TargetDirectory))
                 throw new ArgumentNullException("File not found.");
             if (!Directory.Exists(TargetDirectory))
-                Directory.CreateDirectory(TargetDirectory);
+            Directory.CreateDirectory(TargetDirectory);
         }
         /// <summary>
         /// Downloading data.

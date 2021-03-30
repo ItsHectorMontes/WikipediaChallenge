@@ -21,10 +21,26 @@ Sample Link: [Wikimedia Dumps 2015](https://dumps.wikimedia.org/other/pageviews/
 - Drive Domain Design(DDD)
 
 ## Docker
--Instructions
+- First of all , lest publish our app, running this command ,
+it's necesary stay in this folder ./Wikipedia Challenge.Console.
+
 ```
-docker run -it --device=/dev/ttyUSB0 debian bash
+dotnet publish -c Release
 ```
+- After this, we can build the docker image.
+
+- Create the docker image.
+```
+docker build -t wkchallenge-image -f Dockerfile .
+```
+- Run the container.
+```
+docker run -it --memory="4g" wkchallenge-image
+
+
+
+
+
 
 
 
