@@ -36,6 +36,7 @@ docker build -t wkchallenge-image -f Dockerfile .
 - Run the container.
 ```
 docker run -it --memory="4g" wkchallenge-image
+```
 
 
 
