@@ -37,9 +37,9 @@ docker build -t wkchallenge-image -f Dockerfile .
 ```
 docker run -it --memory="4g" wkchallenge-image
 ```
+<img src="/Assets/DockerWorking.JPG" alt="My cool logo"/>
 
 
-https://github.com/ItsHectorMontes/WikipediaChallenge/blob/main/Assets/DockerWorking.JPG
 
 
 
