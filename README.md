@@ -22,7 +22,7 @@ Sample Link: [Wikimedia Dumps 2015](https://dumps.wikimedia.org/other/pageviews/
 
 ## Docker
 - First of all , lest publish our app, running this command ,
-it's necesary stay in this folder ./Wikipedia Challenge.Console.
+it's necesary stay in this folder ./Wikipedia Challenge.ConsoleUI.
 
 ```
 dotnet publish -c Release
@@ -38,6 +38,8 @@ docker build -t wkchallenge-image -f Dockerfile .
 docker run -it --memory="4g" wkchallenge-image
 ```
 <img src="/DockerWorking.JPG" alt="My cool logo"/>
+
+
 
 
 

@@ -14,7 +14,7 @@ namespace WikipediaChallenge.ApplicationCore.Services
     public class FileProviderService : IFileProviderService
     {
         private string TargetFile;
-        private string TargetFileNoExt; //file with no extension
+        private string TargetFileNoExt;
         private string SourceUrl;
         private string TargetDirectory;
         /// <summary>
