@@ -39,6 +39,8 @@ docker run -it --memory="4g" wkchallenge-image
 ```
 
 
+https://github.com/ItsHectorMontes/WikipediaChallenge/blob/main/Assets/DockerWorking.JPG
+
 
 
 
