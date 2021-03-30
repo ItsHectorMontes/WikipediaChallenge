@@ -11,6 +11,6 @@ namespace WikipediaChallenge.ApplicationCore.Interfaces
         void VerifyDataTempLocation();
         void SetConfigurationByPeriod(DateTime period, string folderName);
         void DownloadData();
-        void DownloadDataAsync();
+        Task DownloadDataAsync();
     }
 }

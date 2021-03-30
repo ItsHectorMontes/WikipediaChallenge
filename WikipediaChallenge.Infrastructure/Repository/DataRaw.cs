@@ -48,9 +48,9 @@ namespace WikipediaChallenge.Infrastructure.Repository
         /// <param name="directoryName"></param>
         private void DownloadByPeriod(DateTime period, string directoryName)
         {
-            _fileProviderService.SetConfigurationByPeriod(period, directoryName);
-            _fileProviderService.VerifyDataTempLocation();
-            _fileProviderService.DownloadData();
+           _fileProviderService.SetConfigurationByPeriod(period, directoryName);
+           _fileProviderService.VerifyDataTempLocation();
+           _fileProviderService.DownloadData();
         }
         /// <summary>
         /// Unzip data.

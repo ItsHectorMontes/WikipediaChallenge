@@ -6,7 +6,7 @@ using WikipediaChallenge.ApplicationCore.Models;
 namespace WikipediaChallenge.ApplicationCore.Services
 {
     /// <summary>
-    /// <see cref="IFileReaderService"/> implementation. serive to read file.
+    /// <see cref="IFileReaderService"/> implementation. service to read file.
     /// </summary>
     public class FileReaderService : IFileReaderService, IDisposable
     {

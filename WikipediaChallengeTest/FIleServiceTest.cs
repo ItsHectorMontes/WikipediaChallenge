@@ -1,4 +1,3 @@
-using System;
 using WikipediaChallenge.ApplicationCore.Services;
 using Xunit;
 

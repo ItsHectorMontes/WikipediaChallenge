@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
 using System.IO.Compression;
-using System.Text;
 using WikipediaChallenge.ApplicationCore.Interfaces;
 
 namespace WikipediaChallenge.ApplicationCore.Services
